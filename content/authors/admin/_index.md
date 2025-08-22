@@ -10,7 +10,7 @@ first_name: Yuri Dmitrievich
 last_name: Krivobokov
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: hrani gospod'
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: A SIMPLE STUDENT WHO HAS A DREAM MF
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,6 +38,12 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/ydkrivobokov
+  - icon: brands/arxiv
+    url: https://www.arxiv.org/user/ydkrivobokov
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0003-6628-3648
+  - icon: brands/research
+    url: https://www.researchgate.net/profile/Yuri-Krivobokov?ev=hdr_xprf
 
 
 
