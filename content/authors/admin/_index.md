@@ -50,7 +50,7 @@ education:
   - area: FFMIEN
     institution: RUDN
     date_start: 2024-09-01
-    date_end: 2028-06-31
+    date_end: 2028-06-30
     summary: |
       Check website
     button:
