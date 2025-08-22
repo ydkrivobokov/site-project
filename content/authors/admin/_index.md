@@ -42,21 +42,21 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Play DOTA
+  - Programming code
+
 
 education:
-  - area: Moscow, Russia
+  - area: FFMIEN
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-06-31
-	summary: |
-	Check website of my university
+    summary: |
+      Check website
     button:
-      text: 'Check website'
+      text: 'Link in RUDN'
       url: 'https://rudn.ru'
- 
+
 work:
   
   - position: GLAVA GORODA CHEHOV
