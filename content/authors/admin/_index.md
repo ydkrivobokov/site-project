@@ -51,7 +51,7 @@ education:
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-06-31
-    summary: |
+	summary: |
 	Check website of my university
     button:
       text: 'Check website'
